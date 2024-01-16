@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245100546036",
+    "firebase_url": "https://final-project-preorder-app-default-rtdb.firebaseio.com",
+    "project_id": "final-project-preorder-app",
+    "storage_bucket": "final-project-preorder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245100546036:android:3596f2e9cf695aa88cdba1",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROVvUTtj8oK0dX6UeRygCIpDCFwiTLeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245100546036:android:3fcf18d6395e18a18cdba1",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROVvUTtj8oK0dX6UeRygCIpDCFwiTLeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245100546036:android:e15fd5f36eafcb528cdba1",
+        "android_client_info": {
+          "package_name": "com.example.preorder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROVvUTtj8oK0dX6UeRygCIpDCFwiTLeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
